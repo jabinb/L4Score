@@ -29,7 +29,7 @@
  * Version: $Id$
  */
 
-#define GAMECONFIG_FILE "left4downtown.l4d"
+#define GAMECONFIG_FILE "l4score.l4d"
 
 #include <string.h>
 
